@@ -1,0 +1,12 @@
+~The mode of all pages 
+    - The menu                          1
+        * type of employee              2
+        * setting of employee page      3
+        * input pages for employee      4
+            ~The type of employee
+                - salaried          1
+                - Hourly            2
+                - commission        3
+    - Search                            5
+    - Viwe top 5                        6
+    -Exit                               exit(0)  
