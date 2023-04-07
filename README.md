@@ -7,7 +7,7 @@
 
 <H2> Description </H2>
 <p>
-  A program to organize employee data and the admin can view it, modify and delete ... etc that you can make action with project via the mouse cursor, and the Flowcharts took it from pdf file of project <br>
+  A program to organize employee data and the admin can view it, modify and delete ... etc that you can make action with project via the mouse cursor, and the Flowcharts took from pdf file of project <br>
   <br>
   <img src="https://scontent.fsah2-1.fna.fbcdn.net/v/t39.30808-6/339293466_540417314954708_2412830762535460600_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=X8j_X-4ebWYAX_IkRc1&_nc_ht=scontent.fsah2-1.fna&oh=00_AfBHnZ2Nom35Xlkj4VDKi6osTP6R2eBxHlk7xQSS-Je7VA&oe=64360B50" alt="Flowchart" width = "40%px">
 </p>
