@@ -19,4 +19,4 @@
     <li> Double left click on test.exe  </li>
   </ul>
         
- Note: if you don't have C++ plateform in you computer follow this <a href="https://www.youtube.com/watch?v=R-Hu5rdn-vc&list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS&index=3"> video </a> or open the main.cpp file on yout compiler.
+ Note: if you don't have C++ plateform in your computer follow this <a href="https://www.youtube.com/watch?v=R-Hu5rdn-vc&list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS&index=3"> video </a> or open the main.cpp file on your compiler.
