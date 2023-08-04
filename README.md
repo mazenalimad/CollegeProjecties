@@ -20,5 +20,3 @@
   </ul>
         
  :bell: Note: if you don't have C++ plateform in your computer and you want to make change on code via VS code follow this <a href="https://www.youtube.com/watch?v=R-Hu5rdn-vc&list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS&index=3"> video </a> or open the main.cpp file on your compiler.
- 
-<br>
